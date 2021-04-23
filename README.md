@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Page!!
 
-You can use the [editor on GitHub](https://github.com/JustinODonnell/JustinODonnell.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The purpose of this page is to Host Image Files and Thumbnails for NFT's made of my Original Art and published on the Bitcoin Cash ($BCH) Blockchain. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The image repository is hosted at justinodonnell.github.io/jod.photos/
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JustinODonnell/JustinODonnell.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Stand Against - $STAND - JustinODonnell.github.io/JOD.Photos/Original/6113687cd31e12b04861dc4f924728da72e70893bd3b2244555b85002771a148.png
+Real Money - $REAL - JustinODonnell.github.io/JOD.Photos/Original/9bfe83f0b9e68cc426784c1a9b461f88bddbd2eb037352e5bf1d7b2e85149829.PNG
+Quincy Market - $BOS - JustinODonnell.github.io/JOD.Photos/Original/9c68d2b148b2dfc9880300035d75bad4fa4ece36042a37cec634972dfbb45aaf.PNG
+AntiFa - $ANTIFA - JustinODonnell.github.io/JOD.Photos/Original/a6b4c0333105d587af86d3560075441e0d530c7f6b87c3dc934b072efc21c20c.png
+General Stark - $OBEY - JustinODonnell.github.io/JOD.Photos/Original/bfd09aa53196a8c63a07c5a110d6da329f9a4444a05703c89190ba3219b118d0.png
