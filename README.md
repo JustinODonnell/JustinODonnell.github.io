@@ -2,7 +2,7 @@
 
 The purpose of this page is to Host Image Files and Thumbnails for NFT's made of my Original Art and published on the Bitcoin Cash ($BCH) Blockchain. 
 
-The image repository is hosted at <https://justinodonnell.github.io/jod.photos/>
+The image repository is hosted at <https://justinodonnell.github.io/jod.photos/> <br>
 Token ID Information can be viewed at https://simpleledger.info/?lng=en 
 
 Stand Against - $STAND -  https://JustinODonnell.github.io/JOD.Photos/Original/6113687cd31e12b04861dc4f924728da72e70893bd3b2244555b85002771a148.png
