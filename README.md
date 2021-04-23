@@ -2,14 +2,14 @@
 
 The purpose of this page is to Host Image Files and Thumbnails for NFT's made of my Original Art and published on the Bitcoin Cash ($BCH) Blockchain. 
 
-The image repository is hosted at https://justinodonnell.github.io/jod.photos/
+The image repository is hosted at <https://justinodonnell.github.io/jod.photos/>
 Token ID Information can be viewed at https://simpleledger.info/?lng=en 
 
 Stand Against - $STAND -  https://JustinODonnell.github.io/JOD.Photos/Original/6113687cd31e12b04861dc4f924728da72e70893bd3b2244555b85002771a148.png
 Token ID: 6113687cd31e12b04861dc4f924728da72e70893bd3b2244555b85002771a148
 
 Real Money - $REAL -  https://JustinODonnell.github.io/JOD.Photos/Original/9bfe83f0b9e68cc426784c1a9b461f88bddbd2eb037352e5bf1d7b2e85149829.PNG
-Token IDL 9bfe83f0b9e68cc426784c1a9b461f88bddbd2eb037352e5bf1d7b2e85149829
+Token ID: 9bfe83f0b9e68cc426784c1a9b461f88bddbd2eb037352e5bf1d7b2e85149829
 
 Quincy Market - $BOS -  https://JustinODonnell.github.io/JOD.Photos/Original/9c68d2b148b2dfc9880300035d75bad4fa4ece36042a37cec634972dfbb45aaf.PNG
 Token ID: 9c68d2b148b2dfc9880300035d75bad4fa4ece36042a37cec634972dfbb45aaf
